@@ -1,0 +1,19 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "~\\scoop\\buckets\\main",
+            "Updated": "2023-01-31T00:22:44.898311+09:00",
+            "Manifests": 1150
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Name": "oh-my-posh",
+            "Source": "main",
+            "Updated": "2023-01-31T00:22:55.3878628+09:00",
+            "Version": "14.0.0"
+        }
+    ]
+}
