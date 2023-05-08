@@ -1,0 +1,45 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-04-10T13:27:05+09:00",
+            "Manifests": 1788
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-04-10T09:32:49+09:00",
+            "Manifests": 1188
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2023-04-08T20:08:51+09:00",
+            "Manifests": 221
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Version": "34.0.1",
+            "Source": "main",
+            "Name": "adb",
+            "Updated": "2023-04-28T06:19:03.0739932+01:00"
+        },
+        {
+            "Name": "CascadiaCode-NF",
+            "Source": "nerd-fonts",
+            "Info": "",
+            "Updated": "2023-04-10T17:24:28.3385167+09:00",
+            "Version": "2.3.3"
+        },
+        {
+            "Name": "CascadiaCode-NF-Mono",
+            "Source": "nerd-fonts",
+            "Info": "",
+            "Updated": "2023-04-10T17:24:10.87565+09:00",
+            "Version": "2.3.3"
+        }
+    ]
+}
