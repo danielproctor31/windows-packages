@@ -19,9 +19,6 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "LizardByte.Sunshine"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
@@ -34,9 +31,6 @@
 					"PackageIdentifier" : "WireGuard.WireGuard"
 				},
 				{
-					"PackageIdentifier" : "Streetwriters.Notesnook"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
@@ -44,9 +38,6 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
-				},
-				{
-					"PackageIdentifier" : "Google.Drive"
 				},
 				{
 					"PackageIdentifier" : "GOG.Galaxy"
@@ -59,9 +50,6 @@
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.NVCleanstall"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
