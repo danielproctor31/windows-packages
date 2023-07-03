@@ -49,16 +49,10 @@
 					"PackageIdentifier" : "Cryptomator.Cryptomator"
 				},
 				{
-					"PackageIdentifier" : "TechPowerUp.NVCleanstall"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier": "Microsoft.BingWallpaper"
-				},
-				{
-					"PackageIdentifier": "SomePythonThings.WingetUIStore"
+					"PackageIdentifier": "Nvidia.GeForceExperience"
 				}
 			],
 			"SourceDetails" : 
