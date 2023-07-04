@@ -53,6 +53,27 @@
 				},
 				{
 					"PackageIdentifier": "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier": "Microsoft.DotNet.SDK.6"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudio.2022.BuildTools"
+				},
+				{
+					"PackageIdentifier": "JetBrains.Toolbox"
+				},
+				{
+					"PackageIdentifier": "CoreyButler.NVMforWindows"
+				},
+				{
+					"PackageIdentifier": "Unity.UnityHub"
+				},
+				{
+					"PackageIdentifier": "KDE.Krita"
+				},
+				{
+					"PackageIdentifier": "darktable.darktable"
 				}
 			],
 			"SourceDetails" : 
