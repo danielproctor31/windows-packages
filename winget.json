@@ -49,6 +49,9 @@
 					"PackageIdentifier" : "Cryptomator.Cryptomator"
 				},
 				{
+					"PackageIdentifier": "Plex.Plexamp"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
