@@ -10,9 +10,6 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier" : "Discord.Discord"
-				},
-				{
 					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
@@ -23,9 +20,6 @@
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
-				},
-				{
-					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
 					"PackageIdentifier" : "WireGuard.WireGuard"
@@ -40,9 +34,6 @@
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier" : "GOG.Galaxy"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
@@ -55,16 +46,13 @@
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
+					"PackageIdentifier" : "SyncTrayzor.SyncTrayzor"
 				},
 				{
-					"PackageIdentifier": "Unity.UnityHub"
+					"PackageIdentifier" : "Obsidian.Obsidian"
 				},
 				{
 					"PackageIdentifier": "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier": "darktable.darktable"
 				}
 			],
 			"SourceDetails" : 
