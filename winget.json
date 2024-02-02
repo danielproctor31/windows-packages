@@ -59,6 +59,12 @@
 				},
 				{
 					"PackageIdentifier": "DevToys"
+				},
+				{
+					"PackageIdentifier": "GodotEngine.GodotEngine"
+				},
+				{
+					"PackageIdentifier": "tailscale.tailscale"
 				}
 			],
 			"SourceDetails" : 
