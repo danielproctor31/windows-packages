@@ -53,6 +53,12 @@
 				},
 				{
 					"PackageIdentifier": "Nvidia.GeForceExperience"
+				},
+				{
+					"PackageIdentifier": "JonatanHeyman.Heynote"
+				},
+				{
+					"PackageIdentifier": "DevToys"
 				}
 			],
 			"SourceDetails" : 
