@@ -1,80 +1,95 @@
 {
-	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-18T22:18:27.342-00:00",
-	"Sources" : 
-	[
-		{
-			"Packages" : 
-			[
-				{
-					"PackageIdentifier" : "7zip.7zip"
-				},
-				{
-					"PackageIdentifier" : "Docker.DockerDesktop"
-				},
-				{
-					"PackageIdentifier" : "Git.Git"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
-				},
-				{
-					"PackageIdentifier" : "WireGuard.WireGuard"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
-				},
-				{
-					"PackageIdentifier": "Mozilla.Firefox"
-				},
-				{
-					"PackageIdentifier" : "Google.Chrome"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
-				},
-				{
-					"PackageIdentifier" : "Cryptomator.Cryptomator"
-				},
-				{
-					"PackageIdentifier": "Plex.Plexamp"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				},
-				{
-					"PackageIdentifier" : "SyncTrayzor.SyncTrayzor"
-				},
-				{
-					"PackageIdentifier" : "Obsidian.Obsidian"
-				},
-				{
-					"PackageIdentifier": "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier": "JonatanHeyman.Heynote"
-				},
-				{
-					"PackageIdentifier": "DevToys"
-				},
-				{
-					"PackageIdentifier": "GodotEngine.GodotEngine"
-				},
-				{
-					"PackageIdentifier": "tailscale.tailscale"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://cdn.winget.microsoft.com/cache",
-				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name" : "winget",
-				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		}
-	],
-	"WinGetVersion" : "1.4.10173"
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2023-04-18T22:18:27.342-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "7zip.7zip"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
+        },
+        {
+          "PackageIdentifier": "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+        },
+        {
+          "PackageIdentifier": "WireGuard.WireGuard"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerToys"
+        },
+        {
+          "PackageIdentifier": "Cryptomator.Cryptomator"
+        },
+        {
+          "PackageIdentifier": "Plex.Plexamp"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        },
+        {
+          "PackageIdentifier": "SyncTrayzor.SyncTrayzor"
+        },
+        {
+          "PackageIdentifier": "Obsidian.Obsidian"
+        },
+        {
+          "PackageIdentifier": "Nvidia.GeForceExperience"
+        },
+        {
+          "PackageIdentifier": "DevToys"
+        },
+        {
+          "PackageIdentifier": "GodotEngine.GodotEngine"
+        },
+        {
+          "PackageIdentifier": "tailscale.tailscale"
+        },
+        {
+          "PackageIdentifier": "JetBrains.Rider"
+        },
+        {
+          "PackageIdentifier": "Brave.Brave"
+        },
+        {
+          "PackageIdentifier": "MartiCliment.UniGetUI"
+        },
+        {
+          "PackageIdentifier": "Neovim.Neovim"
+        },
+        {
+          "PackageIdentifier": "Discord.Discord"
+        },
+        {
+          "PackageIdentifier": "LizardByte.Sunshine"
+        },
+        {
+          "PackageIdentifier": "Valve.Steam"
+        },
+        {
+          "PackageIdentifier": "GOG.Galaxy"
+        },
+        {
+          "PackageIdentifier": "GOGOpenWhisperSystems.Signal"
+        },
+        {
+          "PackageIdentifier": "Proton.ProtonDrive"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://cdn.winget.microsoft.com/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.4.10173"
 }
