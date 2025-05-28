@@ -14,10 +14,19 @@
           "PackageIdentifier": "Git.Git"
         },
         {
-          "PackageIdentifier": "Microsoft.PowerShell"
+          "PackageIdentifier": "Docker.DockerDesktop"
         },
         {
-          "PackageIdentifier": "Microsoft.WindowsTerminal"
+          "PackageIdentifier": "Mozilla.Firefox"
+        },
+        {
+          "PackageIdentifier": "Microsoft.SQLServerManagementStudio "
+        },        
+        {
+          "PackageIdentifier": "Postman.Postman"
+        },
+        {
+          "PackageIdentifier": "Microsoft.PowerShell"
         },
         {
           "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
@@ -38,28 +47,10 @@
           "PackageIdentifier": "Microsoft.VisualStudioCode"
         },
         {
-          "PackageIdentifier": "SyncTrayzor.SyncTrayzor"
-        },
-        {
-          "PackageIdentifier": "Obsidian.Obsidian"
-        },
-        {
-          "PackageIdentifier": "Nvidia.GeForceExperience"
-        },
-        {
           "PackageIdentifier": "DevToys"
         },
         {
-          "PackageIdentifier": "GodotEngine.GodotEngine"
-        },
-        {
-          "PackageIdentifier": "tailscale.tailscale"
-        },
-        {
-          "PackageIdentifier": "JetBrains.Rider"
-        },
-        {
-          "PackageIdentifier": "Brave.Brave"
+          "PackageIdentifier": "JetBrains.Toolbox"
         },
         {
           "PackageIdentifier": "MartiCliment.UniGetUI"
@@ -68,22 +59,10 @@
           "PackageIdentifier": "Neovim.Neovim"
         },
         {
-          "PackageIdentifier": "Discord.Discord"
-        },
+          "PackageIdentifier": "Google.GoogleDrive"
+        },        
         {
-          "PackageIdentifier": "LizardByte.Sunshine"
-        },
-        {
-          "PackageIdentifier": "Valve.Steam"
-        },
-        {
-          "PackageIdentifier": "GOG.Galaxy"
-        },
-        {
-          "PackageIdentifier": "GOGOpenWhisperSystems.Signal"
-        },
-        {
-          "PackageIdentifier": "Proton.ProtonDrive"
+          "PackageIdentifier": "CoreyButler.NVMforWindows"
         }
       ],
       "SourceDetails": {
