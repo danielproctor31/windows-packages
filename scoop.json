@@ -21,13 +21,6 @@
     ],
     "apps": [
         {
-            "Info": "",
-            "Version": "34.0.1",
-            "Source": "main",
-            "Name": "adb",
-            "Updated": "2023-04-28T06:19:03.0739932+01:00"
-        },
-        {
             "Name": "CascadiaCode-NF",
             "Source": "nerd-fonts",
             "Info": "",
