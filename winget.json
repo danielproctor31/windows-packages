@@ -26,6 +26,9 @@
           "PackageIdentifier": "Postman.Postman"
         },
         {
+          "PackageIdentifier": "GitHub.GitHubDesktop"
+        },
+        {
           "PackageIdentifier": "Microsoft.PowerShell"
         },
         {
