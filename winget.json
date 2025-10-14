@@ -20,7 +20,7 @@
           "PackageIdentifier": "Mozilla.Firefox"
         },
         {
-          "PackageIdentifier": "Microsoft.SQLServerManagementStudio "
+          "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
         },        
         {
           "PackageIdentifier": "Postman.Postman"
@@ -29,10 +29,12 @@
           "PackageIdentifier": "GitHub.GitHubDesktop"
         },
         {
-          "PackageIdentifier": "Microsoft.PowerShell"
+          // powershell
+          "PackageIdentifier": "9MZ1SNWT0N5D"
         },
         {
-          "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+          // oh-my-posh
+          "PackageIdentifier": "XP8K0HKJFRXGCK"
         },
         {
           "PackageIdentifier": "WireGuard.WireGuard"
@@ -56,8 +58,8 @@
           "PackageIdentifier": "JetBrains.Toolbox"
         },
         {
-          "PackageIdentifier": "MartiCliment.UniGetUI"
-        },
+          "PackageIdentifier": "Notepad++.Notepad++"
+        },        
         {
           "PackageIdentifier": "Neovim.Neovim"
         },
